@@ -16,7 +16,6 @@ def second_supply_for_fourth_of_july(holiday_hash)
     :memorial_day => ["BBQ"]
   }
 }
-fourth_of_july.each do |Fireworks,BBQ|
 end
 end
 
