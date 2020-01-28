@@ -23,15 +23,13 @@ def
 second_supply_for_fourth_of_july (holiday_supplies)
 holiday_supplies = {:summer => "fireworks", "BBQ", :Christmas => " Lights", "Wreath", :New_year => "party hats"}
 end
-  
-  # Christmas AND the New Year's arrays
 
 end
 
 
 def add_supply_to_memorial_day(holiday_hash, supply)
-  # again, holiday_hash is the same as the ones above
-  # add the second argument to the memorial day array
+  memorial_holiday.each do |supplies|
+  end
 
 end
 
